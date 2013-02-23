@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- フェードインは遅く(効果がわかる程度)、フェードアウトはすばやく (いらつかない程度) -->
+<resources>
+    <integer name="config_allAppsFadeInTime">1500</integer>
+    <integer name="config_allAppsFadeOutTime">700</integer>
+</resources>

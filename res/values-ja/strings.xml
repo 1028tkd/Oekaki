@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="title_activity_oekaki_main">お絵描きアプリ</string>
+    <string name="app_name">Oekaki</string>
+    <string name="title_Oekaki_detail">Oekaki Detail</string>
+    <string name="title_Oekaki_list">Items</string>
+
+    <string name="none_device">デバイスが発見できませんでした</string>
+    <string name="cancel">キャンセル</string>
+
+    <string name="item1">はい</string>
+    <string name="item2">いいえ</string>
+    <string name="item3">絵選択</string>
+
+    <string name="descErasear">消しゴムの画像</string>
+    <string name="menuHint">項目を選択して下さい</string>
+
+    <string name="titleMail">ファイル選択</string>
+    <string name="titleSave">上書き保存</string>
+    <string name="titleBluetooth">Bluetooth検索</string>
+
+    <string name="titleSaveMessage1">上書き保存しますか？上書き保存する場合は「はい」を新規登録する場合は「いいえ」を押して下さい</string>
+    <string name="titleSaveMessage2">現在表示されている絵を添付しますか？添付する場合は「はい」をファイルを選択する場合は「絵選択」を押して下さい。</string>
+    <string name="mailText">に作成された絵を添付してます。</string>
+
+    <string name="mapImageGallery_mailSendFail">メール設定ミス</string>
+
+	<string name="infoMsg1">只今近くのデバイスを検索しています。しばらくお待ちください。</string>
+
+	<string name="errorMsg1">ファイルがありませんでした!</string>
+	<string name="errorMsg2">接続できませんでした。アプリを再起動してください。</string>
+	<string name="errorMsg3">この端末はBluetoothに対応しておりません。</string>
+
+</resources>

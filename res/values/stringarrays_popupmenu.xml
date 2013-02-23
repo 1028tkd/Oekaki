@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="popupmenu_mainTitles">
+		<item>保存</item>
+		<item>削除</item>
+		<item>最初に戻す</item>
+		<item>ファイルを開く</item>
+		<item>カメラを選択</item>
+		<item>ギャラリーから取得</item>
+		<item>メールアプリを選択</item>
+		<item>2人でお絵描き(Bluetooth通信)を実行</item>
+		<item>絵を友達にあげる</item>
+		<item>閉じる</item>
+	</string-array>
+	<string-array name="popupmenu_penSetting">
+		<item>色の種類を変える</item>
+		<item>太さを変える</item>
+		<item>線の種類を変える</item>
+		<item>閉じる</item>
+	</string-array>
+	<string-array name="popupmenu_penKind">
+		<item>直線</item>
+		<item>曲線</item>
+	</string-array>
+	<string-array name="popupmenu_penStroke">
+		<item>太い</item>
+		<item>やや太い</item>
+		<item>普通</item>
+		<item>やや細い</item>
+		<item>細い</item>
+	</string-array>
+	<string-array name="popupmenu_penColor">
+		<item>ブラック</item>
+		<item>ブルー</item>
+		<item>イエロー</item>
+		<item>レッド</item>
+		<item>ピンク</item>
+		<item>ホワイト</item>
+		<item>グリーン</item>
+		<item>グレー</item>
+		<item>マジェンタ</item>
+	</string-array>
+</resources>
